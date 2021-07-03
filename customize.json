@@ -1,6 +1,7 @@
 {
   "name": "Aparajita",
-  "greetingText": "I really love how great an artist🌠 and how beautiful a person you are🌸",
+  "greetingText1": "I really love how great an artist🌠",
+  "greetingText2": "and how beautiful a person you are🌸",
   "wishText": "I really hope you have one of the best years of your life ahead 🧡",
   "imagePath": "img/apa.jpeg"
 }
